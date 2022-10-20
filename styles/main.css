@@ -1,0 +1,97 @@
+.title {
+font-size: 50pt;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.heading {
+display: flex;
+flex-direction: row;
+justify-content: center;
+font-size: 20pt;
+width: 525px;
+margin-top: 50px;
+}
+
+.parent {
+display: flex;
+flex-direction: row;
+background-color: rgb(190, 233, 232);
+border-radius: 20px;
+max-width: 525px;
+margin-left: 30px;
+}
+
+.fishcard {
+display: flex;
+flex-direction: column;
+justify-content: center;
+width: 150px;
+padding: 15px;
+font-family: Georgia;
+}
+
+.fish-image {
+height: 120px;
+border-radius: 20px;
+}
+
+.parent2 {
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-color: rgb(190, 233, 232);
+border-radius: 20px;
+max-width: 525px;
+margin-left: 30px;
+align-items: center;
+}
+
+.tip {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align items: center;
+width: 150px;
+padding: 15px;
+font-family: Georgia;
+}
+
+.travel {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align items: center;
+width: 50px;
+padding: 15px;
+font-family: Georgia;
+}
+
+.parent3 {
+position: absolute;
+top: 200px;
+right: 150px;
+width: 200px;
+height:400px;
+background-color: rgb(190, 233, 232);
+border-radius: 20px;
+padding-top: 50px;
+}
+
+.heading2 {
+display: flex;
+flex-direction: row;
+justify-content: center;
+font-size: 20pt;
+width: 525px;
+margin-top: -80px;
+margin-bottom: 20px;
+}
+
+.sidebar {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
